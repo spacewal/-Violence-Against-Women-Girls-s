@@ -1,5 +1,3 @@
-# -Violence-Against-Women-Girls-s
-
 # Project Title: Violence Against Women & Girls Data Analysis
 
 ## Project Description
